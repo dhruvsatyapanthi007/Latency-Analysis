@@ -88,5 +88,3 @@ Select "Prometheus" and click on add datasource. In the URL prompt type `http://
 After successfully creating datasource, now go to the "+" icon and select "import". In the json panel copy and paste the contents of "Grafana_Dashboard.json" in the root directory of our application. Then click on "Load".
 
 The grafana dashboard will be up and running and we can monitor different aspects of each microservices to lookout for any potential bottleneck.
-
-### We have also mentioned a video link in the report which walks through the entire process!!
